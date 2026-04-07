@@ -2,8 +2,11 @@
 
 
 # Cara Menjalanakan Program dan prasyarat
+cek
 Java JDK 8 atau versi terbaru.
+
 MySQL / XAMPP.
+
 Maven (untuk manajemen dependensi).
 
 mvn compile exec:java
