@@ -1,7 +1,13 @@
 # DatabaseJava-MuhammadRivanSurya-i.2510393
 
-# Cara Menjalanakan Program
+
+# Cara Menjalanakan Program dan prasyarat
+Java JDK 8 atau versi terbaru.
+MySQL / XAMPP.
+Maven (untuk manajemen dependensi).
+
 mvn compile exec:java
+
 
 # hasil ss
 3 Data dummy yang telah ditambahkan
